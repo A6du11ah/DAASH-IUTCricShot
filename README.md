@@ -9,10 +9,10 @@ This repository contains the code and resources for a Machine Learning model des
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Key Features</a></li>
+        <li><a href="#key-features">Key Features</a></li>
       </ul>
       <ul>
-        <li><a href="#mothodology">Methodology</a></li>
+        <li><a href="#methodology">Methodology</a></li>
       </ul>
     </li>
     <li>
