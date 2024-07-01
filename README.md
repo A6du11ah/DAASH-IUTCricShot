@@ -86,7 +86,8 @@ Here are the instructions on how to run this project on Google Collab.
 
 ### Accessing the Project
 
-
+For the dataset used in this project, please email us at 
+* abdullah20@iut-dhaka.edu
 
 <!-- LICENSE -->
 ## License
