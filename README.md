@@ -41,8 +41,8 @@ Welcome to our project for detecting cricket shot types from video footage using
 
 ### Key Features
 
-* Advanced Object Detection with YOLO v9: Utilizes a custom-trained YOLO v9 model to locate and crop the batsman from the video frames.
-* LRCN for Shot Type Classification: Employs a Long-term Recurrent Convolutional Network (LRCN) to analyze the cropped video sequence and classify the shot type.
+* **Advanced Object Detection with YOLO v9:** Utilizes a custom-trained YOLO v9 model to locate and crop the batsman from the video frames.
+* **LRCN for Shot Type Classification:** Employs a Long-term Recurrent Convolutional Network (LRCN) to analyze the cropped video sequence and classify the shot type.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
