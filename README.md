@@ -53,8 +53,7 @@ Welcome to our project for detecting cricket shot types from video footage using
     * The cropped video sequence is processed by an LRCN model.
     * The LRCN model classifies the type of cricket shot based on the batsman’s movements.
 
-
-
+![main](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/dca1cf04-7be0-42de-b9c0-709f64d2cbf2)
 
 
 <!-- GETTING STARTED -->
