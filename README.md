@@ -47,15 +47,19 @@ Welcome to our project for detecting cricket shot types from video footage using
   
 * **LRCN for Shot Type Classification:** Employs a Long-term Recurrent Convolutional Network (LRCN) to analyze the cropped video sequence and classify the shot type. Initially, we are detecting 4 types of shots.
     * **PULL**
+      
       ![pull](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/a9494ebb-57a5-4b8e-be7c-22c3fc2e515c)
 
     * **DEFENSE**
+      
       ![defense](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/df82d055-3599-4bdf-a8f2-b71bc448f80d)
 
     * **DRIVE**
+      
       ![drive](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/812605e3-07bd-49f0-bd2d-aa98b6289400)
 
     * **FLICK**
+      
       ![flick](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/b27c0f0c-5b3a-4b15-96f4-a97ac2f86861)
 
 
