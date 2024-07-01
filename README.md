@@ -33,7 +33,7 @@ This repository contains the code and resources for a Machine Learning model des
 
 
 
-Welcome to our project for detecting cricket shot types from video footage using machine learning! This project aims to classify cricket shots in real-time, leveraging advanced computer vision and deep learning techniques.
+Welcome to our project for detecting cricket shot types from video footage using machine learning! This project aims to classify cricket shots in real time, leveraging advanced computer vision and deep learning techniques.
 
 
 
