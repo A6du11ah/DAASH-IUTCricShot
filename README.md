@@ -42,8 +42,7 @@ Welcome to our project for detecting cricket shot types from video footage using
 * **Advanced Object Detection with YOLO v9:** Utilizes a custom-trained YOLO v9 model to locate and crop the batsman from the video frames.
 * **LRCN for Shot Type Classification:** Employs a Long-term Recurrent Convolutional Network (LRCN) to analyze the cropped video sequence and classify the shot type.
 
-
-https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/0b0ee123-aa97-4559-b6d1-9b0eeb752473
+![play](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/ffa6b59b-b364-4438-a0d5-571f1ce5b6c9)
 
 
 ### Methodology
@@ -54,7 +53,7 @@ https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/0b0ee123-aa97-455
 * **Shot Classification:**
     * The cropped video sequence is processed by an LRCN model.
     * The LRCN model classifies the type of cricket shot based on the batsman’s movements.
-    * 
+      
 <!-- GETTING STARTED -->
 ## Getting Started
 
