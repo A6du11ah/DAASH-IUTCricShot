@@ -31,7 +31,8 @@ This repository contains the code and resources for a Machine Learning model des
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Picture1](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/c98ceddf-b358-4147-85d8-6ebbca6264a4)
+![Picture2](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/3adeca3a-ae47-456e-9ef1-d6c3c689de35)
+
 
 Welcome to our project for detecting cricket shot types from video footage using machine learning! This project aims to classify cricket shots in real-time, leveraging advanced computer vision and deep learning techniques.
 
