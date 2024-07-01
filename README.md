@@ -51,7 +51,7 @@ Welcome to our project for detecting cricket shot types from video footage using
 
 ### Methodology
 
-* Object Detection:
+* **Object Detection:**
     * YOLO v9 is used to detect the batsman in each frame.
     * The detected region around the batsman is cropped for further analysis.
 * Shot Classification:
