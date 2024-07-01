@@ -31,12 +31,9 @@ This repository contains the code and resources for a Machine Learning model des
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Picture2](https://github.com/A6du11ah/DAASH-IUTCricShot/assets/107485472/3adeca3a-ae47-456e-9ef1-d6c3c689de35)
 
 
 Welcome to our project for detecting cricket shot types from video footage using machine learning! This project aims to classify cricket shots in real-time, leveraging advanced computer vision and deep learning techniques.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -46,7 +43,6 @@ Welcome to our project for detecting cricket shot types from video footage using
 * **LRCN for Shot Type Classification:** Employs a Long-term Recurrent Convolutional Network (LRCN) to analyze the cropped video sequence and classify the shot type.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Methodology
 
@@ -58,7 +54,6 @@ Welcome to our project for detecting cricket shot types from video footage using
     * The LRCN model classifies the type of cricket shot based on the batsman’s movements.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -76,14 +71,12 @@ Here are the instructions on how to run this project on Google Collab.
 ### Accessing the Project
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
