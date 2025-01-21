@@ -92,7 +92,7 @@ For the dataset used in this project, please email us at
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
 
 
